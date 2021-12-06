@@ -1,2 +1,2 @@
-
+beginner_tutorials:mastering_ros_robot_description_pkg:practice:seven_dof_arm_gazebo:urdf_practice:urdf_tutorial
 -DCATKIN_DEVEL_PREFIX=/home/vishnu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vishnu/catkin_ws/install -G Unix Makefiles
